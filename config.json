@@ -1,0 +1,12 @@
+{
+	"token": "",
+
+	"webhook_name": "",
+	"webhook_content": "@everyone",
+	"spam_per_webhook": 50000,
+
+	"chan_nuke_amount": 0,
+	"chan_nuke_name": "Test",
+
+	"global_thread_count": 250
+}
